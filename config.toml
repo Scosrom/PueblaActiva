@@ -5,7 +5,4 @@ theme = "pueblaActiva-1"
 
 
 [params]
-css = ["css/aos.css"]
-css = ["css/bootstrap.min.css"]
-css = ["css/font-awesome.min.css"]
-css = ["css/tooplate-gymso-style.css"]
+css = ["css/aos.css", "css/bootstrap.min.css", "css/font-awesome.min.css", "css/tooplate-gymso-style.css"]
