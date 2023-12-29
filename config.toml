@@ -1,0 +1,11 @@
+baseURL = 'https://pueblaActiva.netlify.app/'
+languageCode = "es"
+title = "PueblaActiva"
+theme = "pueblaActiva-1"
+
+
+[params]
+css = ["css/aos.css"]
+css = ["css/bootstrap.min.css"]
+css = ["css/font-awesome.min.css"]
+css = ["css/tooplate-gymso-style.css"]
